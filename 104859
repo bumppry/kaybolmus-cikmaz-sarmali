@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çığlık</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Çığlık</h1>
+        <p>İçsel bir arayışın, karanlıkla yüzleşmenin ve yeniden doğuşun hikayesi.</p>
+        <audio controls>
+            <source src="ciglik_final.mp3" type="audio/mpeg">
+            Tarayıcınız ses öğesini desteklemiyor.
+        </audio>
+    </div>
+</body>
+</html>
